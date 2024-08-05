@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @janardhanreddy790
 - 👀 I’m interested in developing web apps and java based applications.
-- 🌱 I’m currently upgrading my skills in Java
 
 <!---
 janardhanreddy790/janardhanreddy790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
